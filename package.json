@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "author": "airon",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.3.1",
+    "prettier": "^2.5.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "license": "ISC"
+}
